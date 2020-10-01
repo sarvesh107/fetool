@@ -10,7 +10,7 @@
 
 <h2 id="catalog">目录</h2>
 
-- [技术博客/技术组织](#blogs)
+- [Technical Blog/Technical Organization] (#blogs)
 - [技术公众号](#gongzhonghao)
 - [博客搭建](#blog_build)
 - [HTML](#html)
